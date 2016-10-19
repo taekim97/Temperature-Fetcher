@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    var apiKey = "32de4b1e84a402da";
+    var apiKey = "";
     var hLink1 = "http://api.wunderground.com/api/32de4b1e84a402da/history_";
     var bLink2 = "/q/MD/Baltimore.json";
     var mLink2 = "/q/Spain/Madrid.json";
